@@ -95,11 +95,11 @@
 	
 	<distributionManagement>
 	
-	    <releaseRepository>
+	    <Repository>
 	      <id>nexus</id>
 	      <name>maven-webapp-release</name>
 	      <url>http://3.138.136.211:9090/repository/maven-webapp-release/</url>
-	    </releaseRepository>
+	    </Repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
