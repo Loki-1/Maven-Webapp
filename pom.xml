@@ -101,11 +101,11 @@
 	      <url>http://3.138.136.211:9090/repository/maven-webapp-release/</url>
 	    </repository>
 	    
-	    <snapshotRepository>
+	  <!--  <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Maven-webapp-snapshot</name>
 	      <url>http://3.138.136.211:9090/repository/Maven-webapp-snapshot/</url>
-	    </snapshotRepository>
+	    </snapshotRepository>-->
 	    
 	</distributionManagement>
 	
