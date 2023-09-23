@@ -96,8 +96,8 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>maven-webapp-release</name>
-	      <url>http://3.138.136.211:9090/repository/maven-webapp-release/</url>
+	      <name>Java-webapp</name>
+	      <url>http://3.145.131.198:9090/repository/Java-webapp/</url>
 	    </repository>
 	    
 	  <!--  <snapshotRepository>
